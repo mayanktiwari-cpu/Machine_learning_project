@@ -1,2 +1,13 @@
-python= 3.9
--e . 
+Flask
+pandas
+numpy
+sciket-learn
+
+
+
+
+
+
+
+
+-e .
